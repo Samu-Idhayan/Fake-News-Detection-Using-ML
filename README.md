@@ -38,11 +38,10 @@ This repository consists of the following folders:
    
         - Presentation.pdf
    
-        - Report_submitted_to_college.pdf
 
   **Link to download dataset** - https://onlineacademiccommunity.uvic.ca/isot/2022/11/27/fake-news-detection-datasets/
 
-The project generates accuracy scores, confusion matrices, and classification reports for each model. Here are the performance results for the models: Logistic Regression, Random Forest and SVC
+The project generates accuracy scores, confusion matrices, and classification reports for each model. Here are the performance results for the models: Logistic Regression, Random Forest and SVC.
 
 The results demonstrate that the implemented machine learning models, including logistic regression, random forest, and SVM, exhibit high accuracy and strong performance in detecting fake news. These models can be valuable tools in combatting misinformation and verifying the authenticity of news articles.
 
